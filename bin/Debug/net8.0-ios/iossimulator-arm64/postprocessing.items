@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="SpaceSimMaui.app/SpaceSimMaui">
+      <BCSymbolMapName>SpaceSimMaui.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>SpaceSimMaui.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/obj/Debug/net8.0-ios/iossimulator-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>SpaceSimMaui.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
