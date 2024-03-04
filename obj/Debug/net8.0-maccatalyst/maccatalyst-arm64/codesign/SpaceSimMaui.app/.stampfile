@@ -1,1 +1,1 @@
--v --force --timestamp=none --sign - --entitlements /Users/sondrel.ness/SpaceSimMaui/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/sondrel.ness/SpaceSimMaui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SpaceSimMaui.app
+-v --force --timestamp=none --sign - --entitlements /Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/SpaceSimMaui.app

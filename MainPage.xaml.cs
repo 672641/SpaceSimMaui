@@ -2,23 +2,26 @@
 
 public partial class MainPage : ContentPage
 {
-	int count = 0;
-
+	private SpaceSimulator drawing = new SpaceSimulator();
 	public MainPage()
 	{
 		InitializeComponent();
+
+
+		draw.Drawable = drawing;
+
+        IDispatcherTimer timer = Application.Current.Dispatcher.CreateTimer();
+        timer.Interval = TimeSpan.FromMilliseconds(100);
+		timer.Tick += Timer_Tick;
+		timer.Start();
 	}
 
-	private void OnCounterClicked(object sender, EventArgs e)
+	private void Timer_Tick(object sender, object e)
 	{
-		count++;
-
-		if (count == 1)
-			CounterBtn.Text = $"Clicked {count} time";
-		else
-			CounterBtn.Text = $"Clicked {count} times";
-
-		SemanticScreenReader.Announce(CounterBtn.Text);
+		drawing.SolarSystem.TimerTick();
+		draw.Invalidate();
+      
 	}
+
 }
 

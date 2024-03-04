@@ -10,7 +10,11 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		4suW76r9SlUI6HlCfr9Gzhtotf4=
+		ST+cW/AoprxmK8jKTWi9NruYv4I=
+		</data>
+		<key>Resources/MauiInfo.plist</key>
+		<data>
+		iEtuUGCV6JM3gxS/pO33swhmpp8=
 		</data>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>
 		<data>
@@ -201,14 +205,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sfWX2r5W4osDxGB/qMHyrUJTPHZkDbUH8eP8uMByDDg=
+			IbUi+euVO06eMTQkzxJFAYaX9Nk4Uhx3YBcyKBoNxTA=
 			</data>
 		</dict>
 		<key>MonoBundle/SpaceSimMaui.pdb</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			igqGKR0T0bS5XE9EgyLuytVKZCVM5xAPqiV1ixsHRU4=
+			rjd3g86So+zNfyAP0VrIm0v0icg/0giW7rowtbIz8/c=
 			</data>
 		</dict>
 		<key>MonoBundle/System.AppContext.dll</key>
@@ -1622,7 +1626,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P2fHQaOGHAM8UAhcYtKwzKQAXPvgpxbGxJsxk7RWSnQ=
+			/+1q0HOUsSSz1n3vh8gBpHJ2mTFdV2p7nbwWj9h9QO0=
+			</data>
+		</dict>
+		<key>Resources/MauiInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tx0KXqEC+DvcCGyogQTEQWHcCWJYYqH24NtPwhpQEjo=
 			</data>
 		</dict>
 		<key>Resources/MonoTouchDebugConfiguration.txt</key>

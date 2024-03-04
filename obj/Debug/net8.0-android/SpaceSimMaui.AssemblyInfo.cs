@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceSimMaui")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+92a67a7cb3afc771404b8227e99335b5490421a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6e85f9f0ef8b9707a90fc70bc7325da2156307f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceSimMaui")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceSimMaui")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

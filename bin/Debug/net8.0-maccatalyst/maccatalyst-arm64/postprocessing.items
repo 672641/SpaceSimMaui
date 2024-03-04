@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>SpaceSimMaui.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/sondrel.ness/SpaceSimMaui/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
       <DSymName>SpaceSimMaui.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/sondrel.ness/SpaceSimMaui</SourceProjectPath>
+      <SourceProjectPath>/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>
