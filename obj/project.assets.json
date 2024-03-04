@@ -24651,20 +24651,20 @@
     ]
   },
   "packageFolders": {
-    "/Users/jobjornrokenesmyren/.nuget/packages/": {}
+    "/Users/sondrel.ness/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/SpaceSimMaui.csproj",
+      "projectUniqueName": "/Users/sondrel.ness/SpaceSimMaui/SpaceSimMaui.csproj",
       "projectName": "SpaceSimMaui",
-      "projectPath": "/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/SpaceSimMaui.csproj",
-      "packagesPath": "/Users/jobjornrokenesmyren/.nuget/packages/",
-      "outputPath": "/Users/jobjornrokenesmyren/IT Batchelor/v24/dat154/SpaceSimMaui/obj/",
+      "projectPath": "/Users/sondrel.ness/SpaceSimMaui/SpaceSimMaui.csproj",
+      "packagesPath": "/Users/sondrel.ness/.nuget/packages/",
+      "outputPath": "/Users/sondrel.ness/SpaceSimMaui/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
-        "/Users/jobjornrokenesmyren/.nuget/NuGet/NuGet.Config"
+        "/Users/sondrel.ness/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-android",
