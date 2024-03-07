@@ -3,7 +3,27 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="SpaceSimMaui.MainPage">
 
-   <GraphicsView x:Name="draw">
-   </GraphicsView>
+<VerticalStackLayout Spacing="5" Padding="5">
+        
+        <!-- Planet Picker -->
+        <Picker x:Name="planetPicker" 
+        Title="Select a Planet" 
+        SelectedIndexChanged="OnPlanetSelected"
+        />
+            
+        
+
+
+        
+        <!-- Space Simulator Drawable View -->
+        <GraphicsView x:Name="draw" HeightRequest="1200" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"/>
+        
+    </VerticalStackLayout>
+
+ 
       
 </ContentPage>
+
+   
+
+
